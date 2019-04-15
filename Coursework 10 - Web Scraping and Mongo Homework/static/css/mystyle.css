@@ -1,0 +1,56 @@
+img.left_img
+{
+    max-width: 100%;
+    height: auto;
+}
+#left_1
+{
+    margin-top: 20px;
+}
+#right_up
+{
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#right_down
+{
+    margin-top: 20px;
+}
+table td
+{
+    word-break: keep-all;
+    white-space: nowrap;
+    font-size: 10.5pt;
+}
+table th
+{
+    word-break: keep-all;
+    white-space: nowrap;
+    font-size: 10.5pt;
+}
+div.section_header h3
+{
+    text-align: center;
+}
+.img_title
+{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+div.img_1, div.img_2, div.img_3, div.img_4
+{
+    border-style: solid;
+    border-width: 1px;
+}
+#row_down
+{
+    padding-top: 20px;
+}
+#four_imgs
+{
+    margin-top: 20px;
+}
