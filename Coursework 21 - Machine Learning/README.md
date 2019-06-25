@@ -1,0 +1,1 @@
+Load the trained model [clf.pkl](https://github.com/DataNoob0723/Boot-Camp-HWs/raw/master/Coursework%2021%20-%20Machine%20Learning/model/clf.pkl) to make predictions.
